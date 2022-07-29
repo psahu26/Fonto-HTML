@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+#nav-items {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid #fff;
+  padding-bottom: 20px;
+}
+#header {
+  background-image: url("https://scx1.b-cdn.net/csz/news/800/2017/theoreticala.jpg");
+  background-size: cover;
+  background-attachment: local;
+  color: #fff;
+  border-bottom: 10px solid #fff;
+  padding: 10px 30px;
+  height: 250px;
+}
+#images {
+  padding: 30px 70px;
+}
+#block {
+  text-align: center;
+  padding-top: 50px;
+  background-color: #1c1c1c;
+  color: #fff;
+  height: 200px;
+}
+
+#author {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  text-align: center;
+}
+#author img {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+}
