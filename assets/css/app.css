@@ -20,6 +20,7 @@
 }
 #images {
   padding: 30px 70px;
+  display: inline;
 }
 #block {
   text-align: center;
