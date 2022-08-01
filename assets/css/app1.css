@@ -1,11 +1,17 @@
-#Photos img {
+#Author-Photos img {
   border-radius: 50%;
   width: 200px;
   height: 200px;
 }
-#Photos {
+#Author-Photos {
+  display: flex;
+}
+#Design-Photos {
+  display: flex;
+}
+#Design-Photos img {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: space-around;
   text-align: center;
 }
