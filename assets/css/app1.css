@@ -1,0 +1,11 @@
+#Photos img {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+}
+#Photos {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  text-align: center;
+}
